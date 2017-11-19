@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"A File Icon",
+		"Babel",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"jsfmt",
+		"JSX",
+		"Package Control",
+		"React ES6 Snippets",
+		"React IDE",
+		"ReactJS",
+		"ReactJS Snippets",
+		"SublimeLinter",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"Theme - SoDaReloaded"
+	]
+}

@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+alt+l"], "command": "reindent"},
+	{ "keys": ["super+shift+h"], "command": "htmlprettify" }
+]
